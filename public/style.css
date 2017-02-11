@@ -42,8 +42,8 @@ li {
     background-size: cover;
     box-shadow: 0px 0px 5px black;
     position: absolute;
-    height: 540px;
-    width: 368px;
+    height: 370px;
+    width: 370px;
     margin: 0 auto;
     border-radius: 3px;
 }
@@ -68,6 +68,8 @@ li {
 .alert-visible {
     opacity: 1;
 }
+
+
 
 .alert-right {
     right: 0;
