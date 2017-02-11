@@ -28301,7 +28301,7 @@
 	            card: true
 	        }, this.props.classes));
 	
-	        return _react2.default.createElement("div", { style: style, className: classes }, _react2.default.createElement("h1", null, this.props.title), _react2.default.createElement("p", null, this.props.text));
+	        return _react2.default.createElement("div", { style: style, className: classes }, _react2.default.createElement("div", { className: "textHolder" }, _react2.default.createElement("h1", null, this.props.title), _react2.default.createElement("p", null, this.props.text)));
 	    }
 	});
 	

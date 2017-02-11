@@ -63,8 +63,13 @@ var Card = React.createClass({displayName: "Card",
 
         return (
                 React.createElement("div", {style: style, className: classes},
-                React.createElement("h1", null, this.props.title),
-                React.createElement("p", null, this.props.text)
+                React.createElement(
+                      "div",
+                      {className: "textHolder"},
+                      React.createElement("h1", null, this.props.title),
+                      React.createElement("p", null, this.props.text)
+                ),
+            
                 )
         );
     }
