@@ -1,0 +1,98 @@
+
+[
+  {
+    "id": 0,
+    "title": "Your Daily Reading",
+    "category": "Aquarius",
+    "cover": "./src/assets/img-content/Carli Jean Miller.jpg",
+    "content": "Take some space from the chaotic crowds, Aquarius. Your typically social sign will find solace in alone time this weekend, thanks to the moon spending both days in Virgo and your internal eighth house. Indulge in some much-needed reflection, or call on the company of your most trusted companions. One-on-one interactions will be far more satisfying than meeting a boisterous brunch crowd (especially when you can barely make conversation over the din!). With la luna in this erotic zone, you could enjoy some sensual time between the sheets. But don't get too wrapped up in that cocoon. The Aquarius Sun forms a golden trine to expansive Jupiter in your visionary ninth house, infusing your dreams with rocket fuel. You feel a flood of inspiration when it comes to a solo project, or an urge to plan an epic vacation. Set your sights on greater horizons, be that a hammock under a coconut tree, or plans for an independent venture."
+  },
+
+  {
+    "id": 1,
+    "title": "Your Daily Reading",
+    "category": "Pisces",
+    "cover": "./src/assets/img-content/Jonas Nilsson Lee.jpg",
+    "content": "If you're looking for a little peace and quiet this weekend, you may be out of luck. With the moon in Virgo and your social third house, your company is in high demand! Friends will NOT stop texting, DMing and hunting you down for plans. Since you can't fend them off by ignoring their persistent texts, you may as well bless them with your presence. Join your squad at that pop-up gallery, live music festival or fundraiser for the local food co-op. Make sure to carve out some do-not-disturb time as the Sun and Jupiter form a golden trine in the more intimate zones of your chart. Coupled Pisces will find the right time to reconnect, both emotionally and sexually. Single? You could meet someone who feels like a soulmate—as if you've known each other for lifetimes. Whoa! Cupid's arrow is making an early hit. Under this mystical trine, you'll be more intuitive than usual, so let your gut guide you. An older person may offer wisdom and much-needed comfort."
+  },
+
+  {
+    "id": 2,
+    "title": "Your Daily Reading",
+    "category": "Aries",
+    "cover": "./src/assets/img-content/city-11087.jpg",
+    "content": "Prioritize self-care this weekend, Aries. The moon spends both days in Virgo and your healthy sixth house. If you haven't started on your 2017 health resolutions, identify areas of your life that have drifted off the rails. Then, pinpoint concrete actions you can do (realistically!) to get back on track. Deep clean your floors, declutter a cabinet and rearrange furniture to breathe new life into your abode. As inspired as you are, carve out time to go mingle. This weekend brings an enthusiastic trine between the energetic Sun and effusive Jupiter in the most interpersonal zones of your chart. Inspiring company will keep you motivated. Ditch your boozy brunch plans and get everyone together for an outdoor adventure (snowshoeing anyone?). Tell your friends to bring theirs—you and a guest may have special connection."
+  },
+
+  {
+    "id": 3,
+    "title": "Your Daily Reading",
+    "category": "Taurus",
+    "cover": "./src/assets/img-content/Felipe Santana.jpg",
+    "content": "Kick off the weekend with stars in your eyes, Taurus. Your Valentine's festivities start early, as the moon spends both days in Virgo and your romantic fifth house. Don't be shy about going over-the-top if you're feeling the love. Surprise your love with a pair of show tickets or a table at that new chic restaurant. The Sun and Jupiter also form a biannual trine in the most tasteful zones of your chart, so feel free to go upscale—just the way a Taurus likes it. Single? You could have a date before the weekend's through. Your combination of charm and rock-solid integrity could attract a promising love connection. Bring on the style AND substance! An exciting work opportunity could also spark up this weekend, perhaps with someone you meet while out on the town."
+  },
+
+  {
+    "id": 4,
+    "title": "Your Daily Reading",
+    "category": "Gemini",
+    "cover": "./src/assets/img-content/Aleksi Tappura.jpg",
+    "content": "Your weekend may be ripe with exciting invitations, but keep close to home. The moon in your domestic zone inspires a nesting spree—and you probably haven't enjoyed enough of those lately. But who says you can't invite the crew over to Chateau Gemini? Ask everyone to bring an ingredient and make a group dinner. You'll brim with inspiration and ideas thanks the brilliant sun and expansive Jupiter forming a passionate trine. How about some creative Valentine's Day fun? Bake heart-shaped cupcakes, whip up a sultry playlist, or craft some DIY greeting cards. Turn it into a party and invite your friends and family to join—everyone will have a blast with you as the convivial ringmaster. Single Geminis: feeling a little edgy before the big day of amour? Surrounding yourself with unconditional love can take the edge off (and remind you what true love really means). That said, romance IS in the air this weekend. You may hit it off with a cross-cultural cutie, or rekindle a long-distance love."
+  },
+  
+  {
+    "id": 5,
+    "title": "Your Daily Reading",
+    "category": "Cancer",
+    "cover": "./src/assets/img-content/Aleksi Tappura.jpg",
+    "content": "So much to do and just one of you, Cancer! Your weekend brims with spontaneous invites from all directions. Keep your schedule fluid so you can pick and choose your engagements. You're in the mood to get out and socialize, but not to be tied down to anyone or one any plan. Give people a heads up, so they're not hurt or surprised if you cut things short (or just don't show). Beware emotional traps, as you may be called to play therapist or mediate someone else's drama. An expansive Sun-Jupiter trine in the most touchy-feely parts of your chart opens your heart. But it can also leave you drowning in your own emotion ocean. Rehashing the past is only useful to a point, so be careful about going there. How about creating fun new memories instead of dwelling?"
+  },
+  
+  {
+    "id": 6,
+    "title": "Your Daily Reading",
+    "category": "Leo",
+    "cover": "./src/assets/img-content/Aleksi Tappura.jpg",
+    "content": "Get your feet on the ground this weekend, Leo. Pare down your commitments and devote some hours to simplifying your life. Clean out a closet, pay your bills and call your mom back. The moon spends both days in Virgo and your stabilizing second house. While it may not be the most exciting weekend, you'll be grateful you took the time to restore order to your court—especially in the wake of Friday's Leo lunar eclipse! The second house rules luxury, so add some sensual touches to your weekend. If you go out for a nice meal, take an extra moment to savor your meal or wine. Stroll through a gallery and really take in the artist's work. If you're in a warm place. go barefoot outside to really feel rooted with the earth. Skip adrenaline rush of your Sunday run and and try out a restorative yoga class to help you relax and reconnect. A biannual Sun-Jupiter trine ignites the 'people houses' of your chart, bringing fascinating conversations and contacts into your sphere. Will sparks fly between you and a special someone in your circle? Take a chance and see."
+  },
+  
+  {
+    "id": 7,
+    "title": "Your Daily Reading",
+    "category": "Virgo",
+    "cover": "./src/assets/img-content/Aleksi Tappura.jpg",
+    "content": "It's all about you this weekend, Virgo! With the moon in your sign both days, your only agenda is to take care of number-one. Clear away mundane obligations like laundry and errands, then get serious about indulging your whims. Hit midwinter sales and treat yourself. Long overdue for a spa mani-pedi? Make that appointment now. Longing for time on the slopes? Book a day trip and make new friends over an indulgent apres-ski. This weekend's bi-annual Sun-Jupiter trine has an expansive influence on your life, igniting the healthy and practical zones of your chart. You may feel inspired to overhaul your eating or fitness habits. Beauty can also heal. Refresh your décor and infuse lovely new items into your line of vision. A colorful throw or a beautiful bouquet can bring a room to life."
+  },
+  
+  {
+    "id": 8,
+    "title": "Your Daily Reading",
+    "category": "Libra",
+    "cover": "./src/assets/img-content/Aleksi Tappura.jpg",
+    "content": "Easy does it this weekend, Libra. Lighten your double-booked social schedule so you can reconnect with your soul. The moon spends both days in Virgo and your restorative twelfth house, signaling a need for downtime. If you can't cancel plans, approach them at your own pace. Relish your getting-ready process, and choose a chic but comfortable look. Perhaps a soft cashmere sweater will keep you cozy, or you can write off those flowing pants as 'pajama dressing.' Move dinner plans to a quiet corner table or to that hushed speakeasy around the corner. The stars make you sensitive, so watch your alcohol intake. You don't want to overdo it or exhaust yourself! If you stay holed up at Chateau Libra, throw your heart and soul into a creative project. The Sun in your theatrical fifth house forms a flowing trine with expansive Jupiter in Libra, inspiring a wave of self-expression. Whether you make music, dance, or use a visual medium to convey your message, your imagination will work overtime. The spotlight is calling your name, so quietly cast off any self-doubt and give your loving audience your best."
+  },
+  
+  {
+    "id": 9,
+    "title": "Your Daily Reading",
+    "category": "Scorpio",
+    "cover": "./src/assets/img-content/Aleksi Tappura.jpg",
+    "content": "Embrace the crowds, Scorpio. The moon spends both days in Virgo and your group activity zone, calling in the hordes. Your friends will want to bring their friends, so there won't be much room for a VIP list. Take the town by storm with your ever-expanding squad. Karaoke for twenty? Now's your chance to flaunt your star rendition of 'Like a Virgin.' Hit the club and get lost in the DJ's set—perhaps with a few flirty dance partners. Once you've had your fill, slip out the back door for some one-on-one bonding. This weekend also comes with a family-friendly twist, so make time for your clan. The Sun in your domestic house forms a golden trine to lucky Jupiter in your healing sector. A relative, possibly female, could provide support and inspiration. She may need your shoulder and compassionate advice. With the pressure of Valentine's Day looming, a little sisterly bonding will go a long way."
+  },
+  
+  {
+    "id": 10,
+    "title": "Your Daily Reading",
+    "category": "Sagittarius",
+    "cover": "./src/assets/img-content/Aleksi Tappura.jpg",
+    "content": "Sure it's the weekend, but you've got #goals on your mind. Whether you tackle a major project or get ahead on a big assignment, you'll feel a major burst of motivation thanks to the moon spending both days in Virgo and your professional tenth house. Harness the energy to your advantage, but don't disappear into your workaholic tunnel. Friends could come calling—and at some point, you'll want to answer. The Sun in your communication house forms a golden trine to enthusiastic Jupiter (your ruler) in your teamwork zone. Avoid FOMO by breaking for a lively dinner—or bribing them to join your mission. This weekend, you'll find strength and efficiency in numbers. Enlist your most clever and capable cohorts to get the job done smarter and faster. Inspiring conversations could lead to new ideas and perhaps a helpful introduction."
+  },
+  
+  {
+    "id": 11,
+    "title": "Your Daily Reading",
+    "category": "Capricorn",
+    "cover": "./src/assets/img-content/Aleksi Tappura.jpg",
+    "content": "Scene change! Adventure and novelty call this weekend, as the moon spends both days in Virgo and your expansive ninth house. Hop in a Zipcar and check out that quirky country town a couple hours away. Book a night at that snug B&B or a resort with spa services. If you can't leave city limits maybe it's time for Chinatown dim sum, or flaming saganaki and ouzo in the Greek district. Don't be surprised if professional motivation strikes while you explore. Your career gets a boost from a big-picture trine between the confident Sun and lucky Jupiter. Jot down the ideas as they come to you, but don't cut your adventures short for work. The bigger question to ponder: How can you make life more interesting? Bust up stagnant patterns that have settled over your routines and relationships. Edge out of your comfort zone and you just may get a money-making idea that's indeed worth gold. Adopt a pioneering mindset!"
+  }
+]

@@ -8,46 +8,48 @@ import Footer from './components/Footer'
 import store from './store'
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 
+// 'user' is a scorpio
+
 let data = [
     {
         title: 'Grace Hopper',
-        text: 'Born December 9',
+        text: "Scorpio is dominant by nature, but he/she will have trouble keeping their Sagittarius partner under control. Scorpio loves his/her house while the Sagittarius' suitcase is always ready to be taken to a journey. ",
         image: 'GraceHopper.jpg',
         id: '1'
     },
     {
         title: 'Alan Turing',
-        text: 'Born June 23',
+        text: "Masterful Scorpio should make a good mate for quiet spoken Cancer. The Scorpio's force and his/her needs to dominate and protect is just what the Cancer is longing for. ",
         image: 'AlanTuring.jpg',
         id: '2'
     },
     {
         title: 'Dorothy Vaughan',
-        text: 'Born September 20',
+        text: "Their interests are the same in many areas, but they are too different when it refers to the sexual sphere. ",
         image: 'DorothyVaughan.jpg',
         id: '3'
     },
     {
         title: 'Katherine Johnson',
-        text: 'Born August 26',
+        text: "Their interests are the same in many areas, but they are too different when it refers to the sexual sphere. It is difficult for them to establish good relationships. ",
         image: 'KatherineJohnson.jpg',
         id: '4'
     },
     {
         title: 'Steve Jobs',
-        text: 'Born February 24',
+        text: "This may be a love at first sight combination. There is a strong mutual attraction between them. Pisces are ready to rely on Scorpio to compensate their indecision, and will agree with the Scorpio's aspiration to dominate. ",
         image: 'SteveJobs.png',
         id: '5'
     },
     {
         title: 'Mary Jackson',
-        text: 'Born April 9',
+        text: "The sex can turn out to be either stimulating or useless. There are two directions for the events to develop. Both the Aries, and the Scorpio possess a large amount of physical energy. ",
         image: 'MaryJackson.jpg',
         id: '6'
     },
     {
         title: 'Steve Wozniak',
-        text: 'Born August 11',
+        text: "There will be an instant mutual sexual attraction, equal in force between them. But Leo finds it hard to cope with Scorpio's jealousy and possessiveness. Intense, smoldering Scorpio is on a too short fuse, while Leo is much more buoyant. ",
         image: 'SteveWozniak.jpg',
         id: '7'
     }
