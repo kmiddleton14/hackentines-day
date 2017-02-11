@@ -43214,6 +43214,18 @@
 	
 	var _locationOn2 = _interopRequireDefault(_locationOn);
 	
+	var _person = __webpack_require__(593);
+	
+	var _person2 = _interopRequireDefault(_person);
+	
+	var _flashOn = __webpack_require__(594);
+	
+	var _flashOn2 = _interopRequireDefault(_flashOn);
+	
+	var _brightness = __webpack_require__(595);
+	
+	var _brightness2 = _interopRequireDefault(_brightness);
+	
 	var _reactTapEventPlugin = __webpack_require__(501);
 	
 	var _reactTapEventPlugin2 = _interopRequireDefault(_reactTapEventPlugin);
@@ -43237,6 +43249,9 @@
 	  'favorite'
 	);
 	var nearbyIcon = _react2.default.createElement(_locationOn2.default, null);
+	var personIcon = _react2.default.createElement(_person2.default, null);
+	var flashOnIcon = _react2.default.createElement(_flashOn2.default, null);
+	var brightness5Icon = _react2.default.createElement(_brightness2.default, null);
 	
 	// Needed for onTouchTap
 	// http://stackoverflow.com/a/34015469/988941
@@ -43276,22 +43291,22 @@
 	          _BottomNavigation.BottomNavigation,
 	          { selectedIndex: this.state.selectedIndex },
 	          _react2.default.createElement(_BottomNavigation.BottomNavigationItem, {
-	            label: 'Preferences',
-	            icon: nearbyIcon,
+	            label: 'Profile',
+	            icon: personIcon,
 	            onTouchTap: function onTouchTap() {
 	              return _this2.select(0);
 	            }
 	          }),
 	          _react2.default.createElement(_BottomNavigation.BottomNavigationItem, {
-	            label: 'Charities',
-	            icon: nearbyIcon,
+	            label: 'Horoscope',
+	            icon: brightness5Icon,
 	            onTouchTap: function onTouchTap() {
 	              return _this2.select(1);
 	            }
 	          }),
 	          _react2.default.createElement(_BottomNavigation.BottomNavigationItem, {
-	            label: 'Selections',
-	            icon: nearbyIcon,
+	            label: 'Matches',
+	            icon: flashOnIcon,
 	            onTouchTap: function onTouchTap() {
 	              return _this2.select(2);
 	            }
@@ -57122,6 +57137,117 @@
 	};
 	
 	exports.default = new Typography();
+
+/***/ },
+/* 593 */
+/***/ function(module, exports, __webpack_require__) {
+
+	'use strict';
+	
+	Object.defineProperty(exports, "__esModule", {
+	  value: true
+	});
+	
+	var _react = __webpack_require__(1);
+	
+	var _react2 = _interopRequireDefault(_react);
+	
+	var _pure = __webpack_require__(490);
+	
+	var _pure2 = _interopRequireDefault(_pure);
+	
+	var _SvgIcon = __webpack_require__(499);
+	
+	var _SvgIcon2 = _interopRequireDefault(_SvgIcon);
+	
+	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+	
+	var SocialPerson = function SocialPerson(props) {
+	  return _react2.default.createElement(
+	    _SvgIcon2.default,
+	    props,
+	    _react2.default.createElement('path', { d: 'M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z' })
+	  );
+	};
+	SocialPerson = (0, _pure2.default)(SocialPerson);
+	SocialPerson.displayName = 'SocialPerson';
+	SocialPerson.muiName = 'SvgIcon';
+	
+	exports.default = SocialPerson;
+
+/***/ },
+/* 594 */
+/***/ function(module, exports, __webpack_require__) {
+
+	'use strict';
+	
+	Object.defineProperty(exports, "__esModule", {
+	  value: true
+	});
+	
+	var _react = __webpack_require__(1);
+	
+	var _react2 = _interopRequireDefault(_react);
+	
+	var _pure = __webpack_require__(490);
+	
+	var _pure2 = _interopRequireDefault(_pure);
+	
+	var _SvgIcon = __webpack_require__(499);
+	
+	var _SvgIcon2 = _interopRequireDefault(_SvgIcon);
+	
+	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+	
+	var ImageFlashOn = function ImageFlashOn(props) {
+	  return _react2.default.createElement(
+	    _SvgIcon2.default,
+	    props,
+	    _react2.default.createElement('path', { d: 'M7 2v11h3v9l7-12h-4l4-8z' })
+	  );
+	};
+	ImageFlashOn = (0, _pure2.default)(ImageFlashOn);
+	ImageFlashOn.displayName = 'ImageFlashOn';
+	ImageFlashOn.muiName = 'SvgIcon';
+	
+	exports.default = ImageFlashOn;
+
+/***/ },
+/* 595 */
+/***/ function(module, exports, __webpack_require__) {
+
+	'use strict';
+	
+	Object.defineProperty(exports, "__esModule", {
+	  value: true
+	});
+	
+	var _react = __webpack_require__(1);
+	
+	var _react2 = _interopRequireDefault(_react);
+	
+	var _pure = __webpack_require__(490);
+	
+	var _pure2 = _interopRequireDefault(_pure);
+	
+	var _SvgIcon = __webpack_require__(499);
+	
+	var _SvgIcon2 = _interopRequireDefault(_SvgIcon);
+	
+	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+	
+	var ImageBrightness5 = function ImageBrightness5(props) {
+	  return _react2.default.createElement(
+	    _SvgIcon2.default,
+	    props,
+	    _react2.default.createElement('path', { d: 'M20 15.31L23.31 12 20 8.69V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69zM12 18c-3.31 0-6-2.69-6-6s2.69-6 6-6 6 2.69 6 6-2.69 6-6 6z' })
+	  );
+	};
+	ImageBrightness5 = (0, _pure2.default)(ImageBrightness5);
+	ImageBrightness5.displayName = 'ImageBrightness5';
+	ImageBrightness5.muiName = 'SvgIcon';
+	
+	exports.default = ImageBrightness5;
 
 /***/ }
 /******/ ]);
