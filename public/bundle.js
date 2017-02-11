@@ -75,25 +75,40 @@
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 	
 	var data = [{
-	    title: 'A wonderful day',
-	    text: '—— - ——— - - - ——— ———— - — ——— —— - ————— - - ———— —— - ——— - - - ——— ———— - — ——— —— -',
-	    image: 'portrait-1.jpg',
+	    title: 'Grace Hopper',
+	    text: 'Born December 9',
+	    image: 'GraceHopper.jpg',
 	    id: '1'
 	}, {
-	    title: 'My amazing journey',
-	    text: ' - — ——— —— - ————— - - ———— —— - ——— - - - ——— ———— - — ——— —— - ————— - - ——— - - - ——— ———— ',
-	    image: 'portrait-2.jpg',
+	    title: 'Alan Turing',
+	    text: 'Born June 23',
+	    image: 'AlanTuring.jpg',
 	    id: '2'
 	}, {
-	    title: 'Three recipes without cocoa',
-	    text: ' - — ——— —— - ————— - - ———— —— - ——— - - - ——— ———— - — ——— —— - ————— - - ——— - - - ———',
-	    image: 'portrait-3.jpg',
+	    title: 'Dorothy Vaughan',
+	    text: 'Born September 20',
+	    image: 'DorothyVaughan.jpg',
 	    id: '3'
 	}, {
-	    title: 'Generic clickbait title',
-	    text: ' —— ———— - — ——— —— - ————— - - ———— —— - ——— - - - ——— ———— - — ——— —— - ————— - - ———— —— - ——— - - - ——— ———— - — ——— —— - ————— - - ———— - ——— ',
-	    image: 'portrait-4.jpg',
+	    title: 'Katherine Johnson',
+	    text: 'Born August 26',
+	    image: 'KatherineJohnson.jpg',
 	    id: '4'
+	}, {
+	    title: 'Steve Jobs',
+	    text: 'Born February 24',
+	    image: 'SteveJobs.png',
+	    id: '5'
+	}, {
+	    title: 'Mary Jackson',
+	    text: 'Born April 9',
+	    image: 'MaryJackson.jpg',
+	    id: '6'
+	}, {
+	    title: 'Steve Wozniak',
+	    text: 'Born August 11',
+	    image: 'SteveWozniak.jpg',
+	    id: '7'
 	}];
 	
 	var App = function App() {
